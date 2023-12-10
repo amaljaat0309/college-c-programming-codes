@@ -1,2 +1,2 @@
 # college-c-programming-codes
- i develpes this question by the help of c language
+ i developed this question by the help of c language
